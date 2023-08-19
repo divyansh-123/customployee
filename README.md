@@ -31,9 +31,3 @@ Encourage user engagement and gather valuable insights through the feedback sect
 - C compiler (e.g., GCC)
 - Basic command-line knowledge
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/customployee.git
